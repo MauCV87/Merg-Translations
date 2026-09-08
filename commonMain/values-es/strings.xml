@@ -62,7 +62,7 @@
     <string name="control_relative">Relativo</string>
     <string name="control_touch">Tocar</string>
     <string name="control_mouse">Mouse</string>
-    <string name="control_keyboard">Keyboard</string>
+    <string name="control_keyboard">Teclado</string>
     <string name="button_layout">Posición de Botones</string>
     <string name="customize">Personalizar</string>
     <string name="opacity">Opacidad</string>
